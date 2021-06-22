@@ -25,3 +25,9 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME="violet"
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
+
+LEGION_BUILD_TYPE := OFFICIAL
+
+# LegionOS Device Maintainers
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.maintainer.name=Immanuel_Raj
