@@ -1,3 +1,4 @@
+
 #
 # Copyright (C) 2018-2020 The LineageOS Project
 # Copyright (C) 2020 The PixelExperience Project
@@ -327,7 +328,6 @@ PRODUCT_PACKAGES += \
 
 # Overlays
 PRODUCT_PACKAGES += \
-    NoCutoutOverlay \
     NotchBarKiller
 
 # Perf
